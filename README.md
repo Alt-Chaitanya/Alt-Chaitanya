@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alt-Chaitanya
-- 👀 I’m interested in ...High performance computing and Optimization of programs.
-- 🌱 I’m currently learning ...Python with AI.
+- 👀 I’m interested in ...Quantum Computing and Optimization of programs.
+- 🌱 I’m currently learning...Python with AI.
 - ☮️ I’m looking to collaborate by...Doing some awesome team projects.
 - 📫 How to reach me ...instagram:https://www.instagram.com/chaitanyasutar79?utm_source=qr&igsh=MWVzdWEzbjRvNmd0cw==
 - 😄 Pronouns: ...ArcaneImperator....Observer

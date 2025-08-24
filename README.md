@@ -5,9 +5,12 @@
 - ☮️ I’m looking to collaborate by...Doing some awesome team projects.
 
 - 📫 How to reach me 
-...instagram:https://www.instagram.com/chaitanyasutar79?utm_source=qr&igsh=MWVzdWEzbjRvNmd0cw==
 
-..Linkedin:https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+...Instagram:
+https://www.instagram.com/chaitanyasutar79?utm_source=qr&igsh=MWVzdWEzbjRvNmd0cw==
+
+...Linkedin:
+https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 - I Am..QuantumImperator.. 
 

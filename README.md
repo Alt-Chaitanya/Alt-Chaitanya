@@ -2,9 +2,9 @@
 
 - 👀 I seek to develop Quantum Computing and machine learning. 
 
-- 🌱 I'm currently learning...Python with applications in AI as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
+- 🌱 I'm currently learning Python with applications in AI as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
 
-- ☮️ I’m looking to collaborate by...Doing some awesome team projects.
+- ☮️ I’m looking to collaborate by Doing some awesome team projects.
 
 - 📫 How to reach me 
 

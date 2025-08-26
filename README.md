@@ -8,17 +8,21 @@
 
 - 📫 How to reach me 
 
-  ...Instagram:
-https://www.instagram.com/chaitanyasutar79?utm_source=qr&igsh=MWVzdWEzbjRvNmd0cw==
+| Platform   | Link |
+|------------|------|
+| Instagram  | [Click Here](https://www.instagram.com/chaitanyasutar79?utm_source=qr&igsh=MWVzdWEzbjRvNmd0cw==) |
+| LinkedIn   | [Click Here](https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
-  ...Linkedin:
-https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 - 📊 GitHub Stats:
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical)  
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
+![Python]
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+ ![Top Langs]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
 
 
 - I Am..QuantumImperator.. 

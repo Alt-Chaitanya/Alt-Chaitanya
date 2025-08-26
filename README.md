@@ -16,13 +16,13 @@
 
 - 📊 GitHub Stats:
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800&v=1)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
 
 
 - I Am..QuantumImperator.. 

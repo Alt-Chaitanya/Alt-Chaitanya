@@ -1,4 +1,4 @@
-- #👋 Hello, I'm Chaitanya Sutar
+- # 👋 Hello, I'm Chaitanya Sutar
 
 - 👀 I seek to develop Quantum Computing and machine learning. 
 

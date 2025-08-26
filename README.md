@@ -16,7 +16,7 @@
 
 - 📊 GitHub Stats:
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 

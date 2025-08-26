@@ -16,9 +16,9 @@ https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campa
 
 - 📊 GitHub Stats:
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt-Chaitanya&show_icons=true&theme=radical)  
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
 
 
 - I Am..QuantumImperator.. 

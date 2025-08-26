@@ -21,7 +21,7 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40"/> 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
 
 

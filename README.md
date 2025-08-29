@@ -20,6 +20,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![ML](https://img.shields.io/badge/Machine%20Learning-green)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  

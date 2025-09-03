@@ -1,6 +1,6 @@
 - ### 👋 Hello, I'm Chaitanya Sutar
 
-- 👀 I seek to develop Quantum Computing and machine learning. 
+- I seek to develop Quantum Computing and machine learning. 
 
 - 🌱 I'm currently learning Python with applications in AI as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
 
@@ -23,9 +23,6 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-green)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Chaitanya&layout=compact&theme=radical)  
-
 
 - I Am..QuantumImperator.. 
 

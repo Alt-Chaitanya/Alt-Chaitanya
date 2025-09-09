@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning Python and c++ as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
 
-- ☮️ I’m looking to collaborate by doing some awesome team projects.
+- ☮️ And looking forward to collaborate by doing some awesome team projects.
 
 - 📫 How to reach me 
 

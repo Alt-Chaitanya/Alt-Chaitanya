@@ -2,7 +2,7 @@
 
 - I seek to develop Quantum Computing and machine learning. 
 
-- currently learning Python and c++ as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
+- currently learning Python and C++ as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
 
 - ☮️ And looking forward to collaborate by doing some awesome team projects.
 

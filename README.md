@@ -2,7 +2,7 @@
 
 - I seek to develop Quantum Computing and machine learning. 
 
-- currently learning Python and C++ as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
+- Currently learning Python and C++ as a Second Year Engineering Student specializing in Artificial intelligence and data science. 
 
 - ☮️ And looking forward to collaborate by doing some awesome team projects.
 
@@ -10,7 +10,6 @@
 
 | Platform   | Link |
 |------------|------|
-| Instagram  | [Click Here](https://www.instagram.com/chaitanyasutar79?utm_source=qr&igsh=MWVzdWEzbjRvNmd0cw==) |
 | LinkedIn   | [Click Here](https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
 

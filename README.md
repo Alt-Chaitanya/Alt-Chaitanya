@@ -11,6 +11,8 @@
 | Platform   | Link |
 |------------|------|
 | LinkedIn   | [Click Here](https://www.linkedin.com/in/chaitanya-sutar-0754362b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| X          | [Click 
+Here](https://x.com/ChaitanyaS137?t=vPSeQ8BrmI4bREzJI0fTQg&s=09) |
 
 
 - 📊 GitHub Stats:
